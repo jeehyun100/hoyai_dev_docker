@@ -70,8 +70,7 @@
 
      [Install]
      WantedBy=default.target
-   ``` 
-
+   
    - Service enable & start</br>
    ```bash
       sudo systemctl enable docker_hoyai.service
@@ -111,6 +110,22 @@
 
 
 ---------------------------before--------------------------------------------------------<br>
+=======
+   Make New tab in chrome<br>
+   Find apps icon on top of screen<br>
+   Click vnc and input your ip(port : 5901) <br>
+   <b>Passwd : vncpasswd</b><br>
+   
+<b>8. ETC</b> </br>
+   pycharm.sh &<br>
+   google-chrome<br>
+   firefox<br>
+   pgadmin3<br>
+
+
+------------------------------------------------------------------before----------------------------------------------------------------
+
+>>>>>>> 0b6d58b473d49e4804e90f7b4163114fdbe70208
 <b>1.Install Xming </b> </br>
    - download Xming : https://sourceforge.net/projects/xming/ </br>
    - install 
